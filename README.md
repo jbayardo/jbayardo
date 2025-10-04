@@ -2,9 +2,9 @@
 
 I was born and raised in Buenos Aires, Argentina, and educated at the [University of Buenos Aires](https://uba.ar/) in [Computer Science](http://dc.uba.ar/). I currently live in Redmond, WA with my fiance Lucia!
 
-I work as a Senior Software Engineer at Microsoft Copilot Studio, currently in our AI Operations & Engineering Excellence team focused on autonomous coding agents for large codebases.
+I work as a Senior Software Engineer at [Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio/), currently in our AI Operations & Engineering Excellence team focused on autonomous coding agents for large codebases.
 
-Before this, I spent 6 years on [Microsoft CloudBuild](https://www.microsoft.com/en-us/research/publication/cloudbuild-microsofts-distributed-and-caching-build-service/), working on [distributed build engines](https://github.com/microsoft/BuildXL) and infrastructure for Microsoft's mission-critical flagship products builds.
+Before this, I spent 6 years on [Microsoft CloudBuild](https://www.microsoft.com/en-us/research/publication/cloudbuild-microsofts-distributed-and-caching-build-service/), working on [distributed build engines](https://github.com/microsoft/BuildXL) and infrastructure for Microsoft's flagship product builds (think Windows, Office, Azure, ...).
 
 And before that, I was building recommender systems at [Mercado Libre](https://www.mercadolibre.com/), Latin America's largest e-commerce platform.
 
